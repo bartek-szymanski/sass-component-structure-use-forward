@@ -1,0 +1,33 @@
+{
+  "name": "sass-component-structure-use-forward",
+  "version": "1.0.0",
+  "description": "Streamline Your Sass Project: Component Structure with @use and @forward",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "sass-component-structure-use-forward"
+  },
+  "keywords": [
+    "sass",
+    "dart sass",
+    "sass components",
+    "scss components",
+    "sass structure",
+    "scss structure",
+    "sass organization",
+    "scss organization",
+    "sass modularity",
+    "scss modularity",
+    "modular sass architecture",
+    "modular scss architecture",
+    "sass use",
+    "sass forward",
+    "use",
+    "forward"
+  ],
+  "author": "Bartek Szymanski",
+  "license": "ISC"
+}
