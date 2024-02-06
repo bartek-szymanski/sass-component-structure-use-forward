@@ -1,0 +1,7 @@
+@use './abstracts/colors' as color;
+// ---
+
+body {
+    background-color: color.$ultra-violet;
+    padding: 2vh 2vw;
+}

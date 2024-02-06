@@ -1,0 +1,27 @@
+@use 'abstracts' as *;
+// ---
+
+.button {
+    padding: 8px 24px;
+    font-size: 1rem;
+    border-radius: 20px;
+    font-weight: bold;
+    
+    &.button--primary {
+        background-color: $primary__background-color;
+        color: $primary__color;
+    }
+    
+    &.button--secondary {
+        background-color: $secondary__background-color;
+        color: $secondary__color;
+    }
+}
+
+.button__label {
+
+}
+
+.button__icon {
+    
+}
