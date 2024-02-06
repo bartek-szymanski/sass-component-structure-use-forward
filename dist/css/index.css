@@ -1,0 +1,25 @@
+body {
+  background-color: #4f4789;
+  padding: 2vh 2vw;
+}
+
+.button {
+  padding: 8px 24px;
+  font-size: 1rem;
+  border-radius: 20px;
+  font-weight: bold;
+}
+.button.button--primary {
+  background-color: #ffb17a;
+  color: #4f4789;
+}
+.button.button--secondary {
+  background-color: #4f4789;
+  color: #ffb17a;
+}
+
+.heading.heading--primary {
+  color: #ffb17a;
+}
+
+/*# sourceMappingURL=index.css.map */

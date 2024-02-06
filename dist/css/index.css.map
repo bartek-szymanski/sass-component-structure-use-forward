@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["../../src/sass/_base.scss","../../src/sass/abstracts/_colors.scss","../../src/sass/components/button/_button.scss","../../src/sass/components/heading/_heading.scss"],"names":[],"mappings":"AAGA;EACI,kBCDW;EDEX;;;AEFJ;EACI;EACA;EACA;EACA;;AAEA;EACI,kBDRM;ECSN,ODRO;;ACWX;EACI,kBDZO;ECaP,ODdM;;;AEGV;EACI,OFJM","file":"index.css"}
