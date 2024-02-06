@@ -29,5 +29,8 @@
     "forward"
   ],
   "author": "Bartek Szymanski",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "sass": "^1.70.0"
+  }
 }
